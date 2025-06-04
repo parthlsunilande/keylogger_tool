@@ -1,0 +1,1 @@
+A Python-based keylogger detection script designed to identify and alert users about suspicious processes. perfect for cybersecurity enthusiasts, ethical hackers ,and learners aiming to understand system-level threats and improve defense strategies.
